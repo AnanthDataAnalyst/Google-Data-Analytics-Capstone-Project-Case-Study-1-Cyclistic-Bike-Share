@@ -112,17 +112,15 @@ THE AVERAGE NUMBER OF RIDES DURING EACH PHASE OF THE DAY IN 2022.
 
 THE AVERAGE RIDE DURATION FOR THE YEAR 2022.
 
+![1](https://user-images.githubusercontent.com/128831771/227699124-bf03db1d-ca01-4734-8ebf-e78c144af8dd.png)
 
+![2](https://user-images.githubusercontent.com/128831771/227699141-0bd7a3a8-13b5-4494-b9fc-b3e8f8773edc.png)
 
-![Cyclistic 1](https://user-images.githubusercontent.com/128831771/227696912-182e50e7-ff1b-410f-a414-933699d66c4c.png)
+![3](https://user-images.githubusercontent.com/128831771/227699158-9d500212-f9de-42fb-bb04-f96752d692df.png)
 
-![Cyclistic 2](https://user-images.githubusercontent.com/128831771/227696940-97717a24-2ac8-44ae-a7dc-fd4fe26cb275.png)
+![4](https://user-images.githubusercontent.com/128831771/227699168-36a25d4c-7fc4-44e5-b892-40294bbc1a5a.png)
 
-![Cyclistic 3](https://user-images.githubusercontent.com/128831771/227696945-bc6dfd63-f80a-4312-bbbf-133348dcedb6.png)
-
-![Cyclistic 4](https://user-images.githubusercontent.com/128831771/227696947-11f48569-87a7-490f-b559-79894a582e4b.png)
-
-![Cyclistic 5](https://user-images.githubusercontent.com/128831771/227696955-8949b192-a62c-47a4-90b3-4a162ec27d5e.png)
+![5](https://user-images.githubusercontent.com/128831771/227699177-9f6956c4-e5b0-4a03-bae0-7dabdfbf0256.png)
 
 ![Cyclistic Dashboard](https://user-images.githubusercontent.com/128831771/227696969-fba0f623-a5b5-42e5-94b6-83aa04eb88f7.png)
 
